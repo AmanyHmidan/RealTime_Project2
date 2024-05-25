@@ -1,0 +1,35 @@
+num_splittingWorkers = 13
+num_distributingWorkers = 6
+threshold_starveToDie = 90
+num_collectingTeams = 3
+num_cargoPlanes = 3
+min_containersNum = 3
+max_containersNum = 6
+containersWeight = 50
+min_containerPeriod = 1
+max_containerPeriod = 3
+numFamilies = 5
+max_starvation = 40
+min_starvation = 30
+bags_eachWorker = 10
+min_containerRefill = 60
+max_containerRefill = 90  
+ALTITUDE_THRESHOLD = 300
+initial_ALTITUDE = 600
+num_collectingWorkers = 9
+max_energy = 90
+min_energy = 80
+bags_eachFamily = 2
+endGame_deadCollectors = 5
+endGame_deadDistributers = 5
+endGame_deadFamilies = 4
+threshold_deadDistributers = 3
+endGame_hitContainers = 30
+Terminate_time = 180
+
+
+
+
+
+
+
